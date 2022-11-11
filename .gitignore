@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodespaceApp1/CodespaceApp1/bin/Debug/net7.0
+/CodespaceApp1/CodespaceApp1/obj
